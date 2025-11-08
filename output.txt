@@ -1,0 +1,149 @@
+/*****************************************************************************************************************/ is a multi-line comment
+#include<stdio.h> is a preprocessor directive
+void is a keyword
+sample is an identifier
+( is a delimiter
+) is a delimiter
+{ is a delimiter
+char is a keyword
+option is an identifier
+; is a delimiter
+int is a keyword
+num1 is an identifier
+, is a delimiter
+num2 is an identifier
+; is a delimiter
+int is a keyword
+result is an identifier
+; is a delimiter
+printf is an identifier
+( is a delimiter
+"Enter 2 nos: " is a string literal
+) is a delimiter
+; is a delimiter
+scanf is an identifier
+( is a delimiter
+"%d %d" is a string literal
+, is a delimiter
+& is an operator
+num1 is an identifier
+, is a delimiter
+& is an operator
+num2 is an identifier
+) is a delimiter
+; is a delimiter
+printf is an identifier
+( is a delimiter
+"Enter '+' for addition\n '-' for subraction\n '*' for multiplication\n '/' for division: " is a string literal
+) is a delimiter
+; is a delimiter
+scanf is an identifier
+( is a delimiter
+" %c" is a string literal
+, is a delimiter
+& is an operator
+option is an identifier
+) is a delimiter
+; is a delimiter
+switch is a keyword
+( is a delimiter
+option is an identifier
+) is a delimiter
+//This is a single line comment is a single line comment
+{ is a delimiter
+/*MUltilinecommnet */ is a multi-line comment
+case is a keyword
+'+' is a character literal
+: is a delimiter
+result is an identifier
+= is an operator
+num1 is an identifier
+num2 is an identifier
+; is a delimiter
+printf is an identifier
+( is a delimiter
+"Ans: %d" is a string literal
+, is a delimiter
+result is an identifier
+) is a delimiter
+; is a delimiter
+break is a keyword
+; is a delimiter
+case is a keyword
+'-' is a character literal
+: is a delimiter
+result is an identifier
+= is an operator
+num1 is an identifier
+num2 is an identifier
+; is a delimiter
+printf is an identifier
+( is a delimiter
+"Ans: %d" is a string literal
+, is a delimiter
+result is an identifier
+) is a delimiter
+; is a delimiter
+break is a keyword
+; is a delimiter
+case is a keyword
+'*' is a character literal
+: is a delimiter
+result is an identifier
+= is an operator
+num1 is an identifier
+* is an operator
+num2 is an identifier
+; is a delimiter
+printf is an identifier
+( is a delimiter
+"Ans: %d" is a string literal
+, is a delimiter
+result is an identifier
+) is a delimiter
+; is a delimiter
+break is a keyword
+; is a delimiter
+case is a keyword
+'/' is a character literal
+: is a delimiter
+result is an identifier
+= is an operator
+num1 is an identifier
+/ is an operator
+num2 is an identifier
+; is a delimiter
+printf is an identifier
+( is a delimiter
+"Ans: %d" is a string literal
+, is a delimiter
+result is an identifier
+) is a delimiter
+; is a delimiter
+break is a keyword
+; is a delimiter
+default is a keyword
+: is a delimiter
+printf is an identifier
+( is a delimiter
+"None of the options" is a string literal
+) is a delimiter
+; is a delimiter
+} is a delimiter
+return is a keyword
+; is a delimiter
+} is a delimiter
+
+Summary:
+Keywords: 15
+Identifiers: 34
+Operators: 9
+Integers: 0
+Real Numbers: 0
+String Literals: 9
+Delimiters: 60
+Preprocessor Directives: 1
+Hex/Octal Numbers: 0
+Character Literals: 4
+Single Line Comments: 1
+Multi Line Comments: 2
